@@ -1,6 +1,6 @@
-# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML/CSS Postcard Exercise
+# ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML/CSS Postcard Exercise - Prework
 
-✏ *Create a website that replicates the gif "**<https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png>**"*
+✏ *Create a website similar to **<https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/preview.png>***
 
 ## What to do next?
 
@@ -27,7 +27,7 @@ pip3 install flask && python3 server.py
 
 ## Direct live demo 🎬
 
-<https://raw.githack.com/m4n50n/postcard_exercise/main/index.html>
+<https://raw.githack.com/m4n50n/postcard_exercise_prework/main/index.html>
 
 <https://jsfiddle.net/m4n5on/rqa23fzx/9/>
 
